@@ -247,7 +247,7 @@ cmd({
     const app = data.datalist.list[0];
     const appSize = (app.size / 1048576).toFixed(2); // Convert bytes to MB
 
-    const caption = `╭━━━〔 *𝐀𝐏𝐊 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐄* 〕━━━┈⊷
+    const caption = `╭━━━〔 *𝐀𝐏𝐊 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐑* 〕━━━┈⊷
 ┃ 📦 *𝐍𝐚𝐦𝐞:* ${app.name}
 ┃ 🏋 *𝐒𝐢𝐳𝐞:* ${appSize} MB
 ┃ 📦 *𝐏𝐚𝐜𝐤𝐚𝐠𝐞:* ${app.package}
