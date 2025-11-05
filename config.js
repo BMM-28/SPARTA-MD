@@ -45,9 +45,9 @@ DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
 OWNER_NUMBER: process.env.OWNER_NUMBER || "254795452444",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "QADEERxSPARTA",
+OWNER_NAME: process.env.OWNER_NAME || "SPARTA",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "*©𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝚂𝙿𝙰𝚁𝚃𝙰𝚡𝚀𝙰𝙳𝙴𝙴𝚁*",
+DESCRIPTION: process.env.DESCRIPTION || "*©𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝚂𝙿𝙰𝚁𝚃𝙰𝚡𝚆𝙷𝙸𝚃𝙴*",
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/zvrvm9.jpg",
 // add img for alive msg
